@@ -1,0 +1,8 @@
+Metric,Value
+Total Patients,100
+Total Events,849
+Total Activities,8
+Average Journey Time (Minutes),191.1
+Average Transition Time (Minutes),24.59
+Biggest Bottleneck,Pharmacy -> Discharge
+Bottleneck Average Time (Minutes),26.9
