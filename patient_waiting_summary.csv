@@ -1,0 +1,8 @@
+Activity_Name,Average_Waiting_Time,Maximum_Waiting_Time,Total_Transitions
+Discharge,26.9,45.0,100
+Doctor Review,25.79,45.0,100
+X-Ray,25.73,45.0,100
+Lab Test,25.64,45.0,100
+Doctor Consultation,25.53,45.0,114
+Pharmacy,24.77,45.0,100
+Triage,24.57,45.0,135
